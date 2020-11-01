@@ -62,7 +62,7 @@
 
 
 
-[website]: https://nihatdursunlu.me
+[website]: https://nijatdursunlu.me
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/nicatdursunlu
