@@ -1,5 +1,5 @@
-<h1 align="center">Welcome,  I'm Nijat Dursunlu</h1>
-<h2 align="center">I'm a Front-End, Mobile Developer, and Freelancer from Azerbaijan</h2>
+<h1 align="center">Hi 👋,  I'm Nijat Dursunlu</h1>
+<h2 align="center">Front-End, Mobile Developer, and Freelancer from Azerbaijan</h2>
 
 [comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicatdursunlu&label=Profile%20views&color=0e75b6&style=flat" alt="nicatdursunlu" /> </p>)
 
