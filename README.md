@@ -1,5 +1,3 @@
-### Hi there, I'm Nijat Dursunlu - [nijatdursunlu][website] 👋
-
 <h1 align="center">Welcome,  I'm Nijat Dursunlu</h1>
 <h2 align="center">I'm a Front-End, Mobile Developer, and Freelancer from Azerbaijan</h2>
 
@@ -14,6 +12,8 @@
 - 🎓 I’m currently studying Computer Engineering at [Baku Engineering University (BEU)](https://beu.edu.az/en)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nicatdursunlu](https://github.com/nicatdursunlu?tab=repositories)
+
+- My Website is [nijatdursunlu](http://nijatdursunlu.me/)
 
 - 💬 Ask me about **What You Want**
 
