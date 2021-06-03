@@ -62,7 +62,7 @@
 <br />
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicatdursunlu&show_icons=true&locale=en&layout=compact" alt="nicatdursunlu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicatdursunlu&show_icons=true&locale=en&layout=compact&langs_count=20" alt="nicatdursunlu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicatdursunlu&show_icons=true&locale=en&theme=radical" alt="nicatdursunlu" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicatdursunlu&t" alt="nicatdursunlu" /></p>
 
