@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently intern at **ATL Teach**
 
-- 🌱 I’m currently learning **Vue js, Vuex, Vuetify**
+- 🌱 I’m currently learning **Java, Spring Boot, API Controllers, Postgre SQL**
 
 - 🎓 I’m currently studying Computer Engineering at [Baku Engineering University (BEU)](https://beu.edu.az/en)
 
