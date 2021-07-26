@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicatdursunlu&theme=monokai" alt="nicatdursunlu" /></a> </p>
 
-- 🔭 I’m currently intern at **ATL Teach**
+- 🔭 I’m currently intern at **ATL Tech**
 
-- 🌱 I’m currently learning **Java, Spring Boot, API Controllers, Postgre SQL**
+- 🌱 I’m currently learning **Java, Spring, Spring Data, Spring Boot, JPA, SQL**
 
 - 🎓 I’m currently studying Computer Engineering at [Baku Engineering University (BEU)](https://beu.edu.az/en)
 
