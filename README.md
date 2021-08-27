@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Nijat Dursunlu</h1>
-<h2 align="center">Front-End, Mobile Developer, and Freelancer from Azerbaijan</h2>
+<h2 align="center">Software Developer and Freelancer from Azerbaijan</h2>
 
 [comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicatdursunlu&label=Profile%20views&color=0e75b6&style=flat" alt="nicatdursunlu" /> </p>)
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently intern at **ATL Tech**
 
-- 🌱 I’m currently learning **Java, Spring, Spring Data, Spring Boot, JPA, SQL**
+- 🌱 I’m currently learning **Java SE, Spring, Spring Data, Spring Boot, JPA, SQL, PostgreSQL**
 
 - 🎓 I’m currently studying Computer Engineering at [Baku Engineering University (BEU)](https://beu.edu.az/en)
 
