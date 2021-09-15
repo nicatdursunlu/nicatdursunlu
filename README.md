@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicatdursunlu&theme=monokai" alt="nicatdursunlu" /></a> </p>
 
-- 🔭 I’m currently intern at **ATL Tech**
+- 🔭 I’m currently Junior Software Developer at **ATL Tech**
 
 - 🌱 I’m currently learning **Java SE, Spring, Spring Data, Spring Boot, JPA, SQL, PostgreSQL**
 
